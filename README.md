@@ -14,14 +14,14 @@
 - 🌐   I'm currently learning:   👉   [<img align="left" alt="FireBase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />] | [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 - 💻   I intend to learn:   👉   [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] | [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />] | [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />] 
 - ✨   Additional skills:   👉   [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] | [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] | [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] | [<img align="left" alt="GulpJs" title = "GulpJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulpjs/gulpjs.png" />] | [<img align="left" alt="Photoshop" title = "Photoshop" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" />]
-
-  If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.
-- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ... New Exciting Projects 
+- 🔭 I’m currently working on ...
+
+  **If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.**
 
 > ***Explore all of my projects from [Here](https://github.com/Eng-Mohamed-Osama?tab=repositories)***
 
-### :trophy: Github Stats
+## :trophy: Github Stats
 
 ![Salahineo's github stats](https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Osama&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
