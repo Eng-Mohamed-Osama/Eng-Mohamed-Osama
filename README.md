@@ -5,9 +5,9 @@
 
 - 💼   I'm a  **Junior Front-End Web Developer.**
 
-- 🌱   I hope to be a successful **Full Stack Web Developer.**
+- 🌱   **Full Stack Web Developer.** Still Loading  **75%** Done :exclamation:
 
-- :books:  I have learned **most of front-end technologies, and I'm currently focusing on learning back-end technologies.**
+- :books:  I have learned **the front-end technologies, and I'm currently focusing on learning back-end technologies.**
 
 - 🤔   I always like to **learn** and explore **everything** about **web development technologies.**
 
@@ -31,7 +31,7 @@
 
 - 👯 I’m looking to **collaborate** on ... New **Exciting** Projects 
 - 🥅 2021 **Goals**: Contribute more to **Open Source projects**
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...it's a secret :grimacing:
 
 #### **If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.**
 
