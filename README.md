@@ -20,11 +20,11 @@
    <img  alt="JSON" width="36px" title = "JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 
 
-- 🌐  :arrow_double_down: I'm **currently learning**:   :arrow_double_down:
+- 🌐  :arrow_double_down: I'm **currently learning**:   :arrow_double_down:<br /><br />
 -----<img  alt="FireBase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />  <img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
-- 💻  :arrow_double_down: I **intend** to **learn**:   :arrow_double_down: <br/>
+- 💻  :arrow_double_down: I **intend** to **learn**:   :arrow_double_down: <br />
 <img  alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />    
 <img  alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />   
 <img  alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />  
