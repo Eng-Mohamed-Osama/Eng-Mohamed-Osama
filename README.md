@@ -1,7 +1,5 @@
 ### Hi there ,  I'm Mohamed Osama  👋
 
-<!--
-**Eng-Mohamed-Osama/Eng-Mohamed-Osama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👨‍💻 About
 
@@ -26,4 +24,4 @@
 - [Website](https://mohamed-osama.web.app/) 🌐
 - [Email](mailto:mohamed.osama2727@gmail.com) ✉️
 
--->
+
