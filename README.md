@@ -20,9 +20,8 @@
    <img  alt="JSON" width="36px" title = "JSON" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 
 
-- 🌐  :arrow_double_down: I'm **currently learning**:   :arrow_double_down:  <br/>
-<img  alt="FireBase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />     
-<img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+- 🌐  :arrow_double_down: I'm **currently learning**:   :arrow_double_down:
+-----<img  alt="FireBase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />  <img  alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
 - 💻  :arrow_double_down: I **intend** to **learn**:   :arrow_double_down: <br/>
