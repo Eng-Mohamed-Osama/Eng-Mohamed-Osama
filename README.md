@@ -19,7 +19,11 @@
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ... New Exciting Projects 
 
-***Explore all of my projects from [Here](https://github.com/Eng-Mohamed-Osama?tab=repositories)***
+> ***Explore all of my projects from [Here](https://github.com/Eng-Mohamed-Osama?tab=repositories)***
+
+### :trophy: Github Stats
+
+![Salahineo's github stats](https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Osama&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
