@@ -5,7 +5,7 @@
 
 - 💼   I'm a  **Junior Front-End Web Developer.**
 
-- 🌱   **Full Stack Web Developer.** Still Loading  **75%** Done :exclamation:
+- 🌱   SOON TO BE **Full Stack Web Developer.** :exclamation: Still Loading  **75%** Done :exclamation:
 
 - :books:  I have learned **the front-end technologies, and I'm currently focusing on learning back-end technologies.**
 
