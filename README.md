@@ -37,7 +37,7 @@
 
 ## :trophy: Github Stats
 
-![Salahineo's github stats](https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Osama&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Osama&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
