@@ -10,6 +10,8 @@
 - 🤔   I always like to **learn** and explore **everything** about **web development technologies.**
 
 - ⚡   Fact: The **Expert** in Anything was **Once** a **Beginner.**
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
 
 
  ## 📉 Roadmap
