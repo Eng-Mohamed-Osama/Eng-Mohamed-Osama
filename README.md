@@ -3,9 +3,11 @@
 
 ### 👨‍💻 About
 
+- 💼   I'm a  **Junior Front-End Web Developer.**
+
 - 🌱   I hope to be a successful **Full Stack Web Developer.**
 
-- 💼   I have learned **most of front-end technologies, and I'm currently focusing on learning back-end technologies.**
+- :books:  I have learned **most of front-end technologies, and I'm currently focusing on learning back-end technologies.**
 
 - 🤔   I always like to **learn** and explore **everything** about **web development technologies.**
 
