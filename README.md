@@ -1,7 +1,7 @@
-# Hi there ,  I'm Mohamed Osama  👋
+## Hi there ,  I'm Mohamed Osama  👋
 
 
-## 👨‍💻 About
+### 👨‍💻 About
 
 - 🌱   I hope to be a successful **Full Stack Web Developer.**
 
@@ -12,7 +12,7 @@
 - ⚡   Fact: The **Expert** in Anything was **Once** a **Beginner.**
 
 
- ## 📉 Roadmap
+ ### 📉 Roadmap
  
 - 💯  :arrow_double_down: I have **learned**:   :arrow_double_down:<br /><br /> <img  alt="Visual Studio Code" width="26px" title = "VSC" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  <img alt="HTML5" title = "HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  <img  alt="CSS3" title = "CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />  <img  alt="JavaScript" title = "JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 <img  alt="React" title = "React Js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img  alt="Bootstrap" title = "Bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />   <img alt="jQuery" title = "jQuery" width="26px" title="jQuery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />   <img title = "Sass" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -31,15 +31,15 @@
 - 🥅 2021 **Goals**: Contribute more to **Open Source projects**
 - 🔭 I’m currently working on ...
 
-### **If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.**
+#### **If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.**
 
 > ***Explore all of my projects from [Here](https://github.com/Eng-Mohamed-Osama?tab=repositories)***
 
-## :trophy: Github Stats
+### :trophy: Github Stats
 
 ![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Eng-Mohamed-Osama&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-## 📫 Contact
+### 📫 Contact
 
 - [Github](https://github.com/Eng-Mohamed-Osama) :octocat:
 - [LinkedIn](https://www.linkedin.com/in/eng-mohamed-osama-moh-/) 💼
