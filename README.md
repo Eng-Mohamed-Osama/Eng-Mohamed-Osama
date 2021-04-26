@@ -3,11 +3,11 @@
 
 ### 👨‍💻 About
 
-- 💼   I'm a  **Junior Front-End Web Developer.**
+- 💼   I'm a  **Junior FLutter Developer.**
 
 - 🌱   SOON TO BE **Full Stack Web Developer.** :exclamation: Still Loading  **75%** Done :exclamation:
 
-- :books:  I have learned **the front-end technologies, and I'm currently focusing on learning back-end technologies.**
+- :books:  I have learned **Flutter As Well AS the front-end technologies, and I'm currently focusing on learning back-end technologies.**
 
 - 🤔   I always like to **learn** and explore **everything** about **web development technologies.**
 
