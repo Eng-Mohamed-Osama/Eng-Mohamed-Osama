@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About
 
-- 💼   I'm a  **Junior Front-End Developer.**
+- 💼   I'm a  **Front-End Developer.**
 
 - 🌱   SOON TO BE **Full Stack Web Developer.** :exclamation: Still Loading  **75%** Done :exclamation:
 
