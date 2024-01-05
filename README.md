@@ -30,7 +30,7 @@
 - ✨ :arrow_double_down:  Additional **skills**:   :arrow_double_down: <br /> <br /><img  alt="Terminal" width="26px" title = "CMD" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />   <img  alt="GitHub" title = "GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />     <img  alt="Git" title = "Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 - 👯 I’m looking to **collaborate** on ... New **Exciting** Projects 
-- 🥅 2021 **Goals**: Contribute more to **Open Source projects**
+- 🥅 2024 **Goals**: Contribute more to **Open Source projects**
 - 🔭 I’m currently working on ...it's a secret :grimacing:
 
 #### **If you find my work good, consider giving it a ⭐ or fork-ing to show some ❤️. It helps me stay on track and be motivated.**
@@ -45,7 +45,6 @@
 
 - [Github](https://github.com/Eng-Mohamed-Osama) :octocat:
 - [LinkedIn](https://www.linkedin.com/in/eng-mohamed-osama-moh-/) 💼
-- [Website](https://mohamed-osama.web.app/) 🌐
 - [Email](mailto:mohamed.osama2727@gmail.com) ✉️
 
 
